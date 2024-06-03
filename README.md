@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/joshuarest/league-rank-scraper">
-    <img src="https://pentagram-production.imgix.net/cc7fa9e7-bf44-4438-a132-6df2b9664660/EMO_LOL_02.jpg" alt="Logo" width="120" height="120">
+    <img src="https://brand.riotgames.com/static/a91000434ed683358004b85c95d43ce0/8a20a/lol-logo.png" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">league-rank-scraper</h3>
