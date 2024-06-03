@@ -30,6 +30,8 @@
 ---------------------------------------
 
 # usage
+- make sure you have [python](https://www.python.org/downloads/release/python-31010/) installed
+- install the dependancies (open cmd and input this: pip install requests bs4)
 - put usernames (example: josh#NA1) inside of usernames.txt
 - put proxies in proxies.txt
 - double click run.bat (or run the python file from the command line)
