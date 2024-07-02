@@ -1,15 +1,15 @@
 <div id="top"></div>
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/joshuarest/league-rank-scraper.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/joshuarest/league-rank-scraper.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/joshuarest/league-rank-scraper.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/LowerBodyYaw/league-rank-scraper.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/LowerBodyYaw/league-rank-scraper.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/LowerBodyYaw/league-rank-scraper.svg?style=for-the-badge"/>
 </p>
 
 ---------------------------------------
   
 <br/>
 <div align="center">
-  <a href="https://github.com/joshuarest/league-rank-scraper">
+  <a href="https://github.com/LowerBodyYaw/league-rank-scraper">
     <img src="https://brand.riotgames.com/static/a91000434ed683358004b85c95d43ce0/8a20a/lol-logo.png" alt="Logo" width="120" height="120">
   </a>
   
@@ -18,7 +18,7 @@
   <p align="center">
     scrapes past season ranks from league players!
     <br />
-    <a href="https://github.com/joshuarest/league-rank-scraper/issues">report a bug / request features</a>
+    <a href="https://github.com/LowerBodyYaw/league-rank-scraper/issues">report a bug / request features</a>
   </p>
 </div>
 
